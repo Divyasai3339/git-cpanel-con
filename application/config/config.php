@@ -25,7 +25,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   |
  */
 // $config['base_url'] = 'https://drgenielive.com/new';
-$config['base_url'] = 'http://localhost/new/2024/hospital/';
+// $config['base_url'] = 'http://localhost/new/2024/hospital/';
+$config['base_url'] = 'https://drgenielive.com/demo/'; 
+
 
 
 /*
