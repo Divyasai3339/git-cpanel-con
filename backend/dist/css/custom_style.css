@@ -1,0 +1,35 @@
+.box_dashboard{
+	display: block;
+    font-size: 15px;
+    margin-top: 38px;
+    white-space: nowrap;
+    margin-left: 19px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*Added by Shrik*/
+.atf_v_span{     width: 50px;
+    float: left;
+    padding: 3px;
+    text-align: center;
+	font-size: 12px;
+	cursor: pointer;
+	}
+.atf_sph_p_title{width: 150px;float: left;display: inline-table;}
+.atf_value_container{width:150px;}
+.modal-atf{width:80%;}
+.atf_sph_n_values,.atf_cyl_n_values,.atf_axis_n_values,.atf_add_n_values{display:none;}
+.atf_selected_btn{background-color:#20B2AA;}
+.atf_save_btn{background-color:#1CAC78;}
+.atf_cancel_btn{background-color:#fd5c63;}
+
+.atf_od_span, .atf_os_span{
+    width: 15px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+	cursor: pointer;
+}
+.atf_container{border: 1px solid gray;display: inline-block;}
+.atf_sph_p_title{border-bottom: 1px solid gray;}
